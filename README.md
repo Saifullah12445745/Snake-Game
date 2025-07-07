@@ -1,26 +1,10 @@
 # Snake-Game
  A simple implementation of the classic Snake game in Python using the turtle module. Control the snake, eat the food to grow, and try to beat your high score!
-Excellent! Let’s write a **detailed, professional-quality README** for your Snake Game, including a section for the screenshot you want to add.
 
-Below is **fully ready-to-copy** Markdown text. You’ll just replace the `screenshot.png` with your actual screenshot file name or link.
 
----
 
-# 🐍 Snake Game
 
-A classic Snake game implemented in Python using the `turtle` graphics module. Control the snake to eat food, grow in length, and avoid crashing into walls or yourself.
 
-This project is designed as a fun introduction to object-oriented programming and simple game loops in Python.
-
----
-
-## 📸 Screenshot
-
-Excellent! Let’s write a **detailed, professional-quality README** for your Snake Game, including a section for the screenshot you want to add.
-
-Below is **fully ready-to-copy** Markdown text. You’ll just replace the `screenshot.png` with your actual screenshot file name or link.
-
----
 
 # 🐍 Snake Game
 
